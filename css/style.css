@@ -1,0 +1,28 @@
+body {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #333;
+}
+.pergunta {
+  font-weight: 600;
+}
+.alternativas {
+  margin-bottom: 20px;
+}
+.alternativas label {
+  display: block;
+}
+#enviar {
+  font-family: sans-serif;
+  font-size: 20px;
+  background-color: #540b0e;
+  color: #fff;
+  border: 0px;
+  border-radius: 3px;
+  padding: 20px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+#enviar:hover {
+  background-color: #9e2a2b;
+}
